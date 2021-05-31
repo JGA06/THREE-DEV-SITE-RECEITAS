@@ -3,7 +3,6 @@
 ## Dados da Turma
 * Dia da semana: **Terça-Feira**
 * Período: **Diurno**
-* 
 
 |   RA   |  NOME COMPLETO  |    CURSO    |    TURMA    |
 | :---         |     :---:      |      :---:      |          ---: |
@@ -13,7 +12,7 @@
 
 
 ## Descrição do Projeto
-A **THREE0 DEV** apresenta, o **Papa Pizza**, um site criado apenas utilizando HTML, CSS e JS. Criado apenas para simular uma pizzaria, exibindo cardápio, fotos, contato.
+A **THREE DEV** apresenta, o **Papa Pizza**, um site criado apenas utilizando HTML, CSS e JS. Criado apenas para simular uma pizzaria, exibindo cardápio, fotos, contato.
 
 ## Endereço da Aplicação
 
