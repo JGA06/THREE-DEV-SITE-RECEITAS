@@ -19,5 +19,3 @@ A **THREE0 DEV** apresenta, o **Papa Pizza**, um site criado apenas utilizando H
 
 	+ [http://suaurl.com](http://suaurl.com)
 
-## Outras Observações
-O site foi construido com HTML, CSS e JS, com intuito de ser um site para ser uma pizzaria.
