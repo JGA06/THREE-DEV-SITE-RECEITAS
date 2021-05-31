@@ -1,4 +1,7 @@
 # THREE DEV
+O site foi construido com HTML, CSS e JS, com intuito de ser um site para ser uma pizzaria.
+
+
 
 |   RA   |  NOME COMPLETO  |    CURSO    |    TURMA    |
 | :---         |     :---:      |      :---:      |          ---: |
